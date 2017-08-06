@@ -1,2 +1,2 @@
 # Collapsible-Panels
-This is a collapsib
+This is a collapsible
